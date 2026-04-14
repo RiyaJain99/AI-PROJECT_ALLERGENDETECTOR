@@ -1,10 +1,9 @@
 # Large model files
-<<<<<<< HEAD
 *.pth
-=======
->>>>>>> clean-main
 *.pt
 *.ckpt
+*.safetensors
+models/vit/
 
 # Datasets
 *.tar
@@ -19,9 +18,8 @@ __pycache__/
 # Virtual environments
 venv/
 .venv/
+env/
 
 # System files
 .DS_Store
 Thumbs.db
-
-.venv

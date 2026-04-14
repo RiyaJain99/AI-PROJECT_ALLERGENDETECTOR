@@ -1,7 +1,2 @@
-import FoodAllergenDetector from "./components/FoodAllergenDetector";
-
-function App() {
-  return <FoodAllergenDetector />;
-}
-
+import App from "./components/FoodAllergenDetector";
 export default App;

@@ -184,7 +184,8 @@ def load_model_and_processor():
     pth_path = "models/food101_vit_base_patch16_224.pth"
 
     if os.path.exists(pth_path):
-        checkpoint = torch.load(pth_path, map_location=DEVICE)
+        checkpoint = torch.load(pth_path, map_location=DEVICE, weights_only=False)
+
 
         # Handle both checkpoint formats
         if isinstance(checkpoint, dict) and "model_state_dict" in checkpoint:
