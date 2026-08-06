@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/ML-PyTorch-orange?style=for-the-badge&logo=pytorch" />
 </p>
 
+<p align="center">
+  <a href="https://frontend-eight-nu-c1z37dym99.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-00C853?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 What is AllergenSafe?
@@ -20,10 +26,13 @@
 > ⚡ A next-gen AI system that scans food images and detects hidden allergens using deep learning.
 
 💡 Built using Vision Transformers (ViT) + clinical allergen datasets  
-📊 Designed for real-world safety & healthcare use  
+📊 Designed for real-world safety & healthcare use
+
+## 🌐 Live Demo
+
+🔗 **https://frontend-eight-nu-c1z37dym99.vercel.app/**
 
 ---
-
 ## 🎥 System Flow
 📸 Image Upload
 ↓
